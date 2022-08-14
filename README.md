@@ -9,3 +9,5 @@ The mobile application (university project) is designed for those who want to ke
 <img src="assets/unknown2.png" alt="drawing" width="300" height="600"/>
 <img src="assets/unknown3.png" alt="drawing" width="300" height="600"/>
 </div>
+
+I used React Native and Expo for the realization of the application.
